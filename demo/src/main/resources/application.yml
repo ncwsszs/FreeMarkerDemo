@@ -1,5 +1,5 @@
 server:
-  port: 6856
+  port: 6857
 spring:
   freemarker:
     suffix: .html
